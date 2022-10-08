@@ -1,3 +1,5 @@
+# Python script to find the magnitude of a matrix.
+
 import math
 v=[1,2,3]
 def Magnitude(v):
